@@ -1,2 +1,2 @@
 # AluraServlet
-Estudo de Servlets
+Estudo sobre Servlets - Alura
